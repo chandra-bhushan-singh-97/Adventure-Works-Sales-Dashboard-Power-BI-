@@ -52,14 +52,11 @@ Enabled strategic decision-making using interactive visuals
 🎨 Dashboard Highlights
 Clean UI with light theme + blue color palette
 Interactive visuals with drill-down and filtering
-Business-focused layout for executive insights
-📸 Screenshots
+Business-focused layout for executive insights.
 
-(Add your dashboard screenshots here)
 
-📌 Conclusion
 
-This dashboard demonstrates the ability to:
+
 
 Transform raw data into meaningful insights
 Build interactive and user-friendly BI reports
